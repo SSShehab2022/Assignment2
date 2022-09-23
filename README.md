@@ -7,3 +7,6 @@
 ### >> gcc app.c -o app.o -c
 ### >> gcc *c -o dynamicexe -lc
 ### >> gcc *c -o staticexe -lc --static
+
+
+![Screenshot](ass2_pic.png)
